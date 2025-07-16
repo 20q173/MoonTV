@@ -6,6 +6,10 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    "fhzy10": {
+      "api": "http://fhapiby.com/api.php/provide/vod",
+      "name": "fhzy10"
+    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
@@ -81,9 +85,37 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "laosebizy"
     },
-     "senlinzy": {
+    "senlinzy": {
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "senlinzy"
+    },
+    "bwzyz": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "bwzyz"
+    },
+    "gayzy": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "gayzy"
+    },
+    "thzy1": {
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "name": "thzy1"
+    },
+    "aosikazy": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "aosikazy"
+    },
+    "didizy": {
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
+      "name": "didizy"
+    },
+    "caoliuzyw": {
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod",
+      "name": "caoliuzyw"
+    },
+    "fhapi9": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "fhapi9"
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
